@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "notas": "Verifica la calidad real de tus descargas y vuelve a buscar las que no son lo que dicen.",
+  "version": "0.4.0",
+  "notas": "Logo nuevo, y ahora busca siempre las versiones sin pérdida (WAV y FLAC) para tocar en festivales.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.3.0/DJ-Lazy-0.3.0.dmg",
-    "win": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.3.0/DJ-Lazy-Setup-0.3.0.exe"
+    "mac": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.4.0/DJ-Lazy-0.4.0.dmg",
+    "win": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.4.0/DJ-Lazy-Setup-0.4.0.exe"
   }
 }
