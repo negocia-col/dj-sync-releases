@@ -1,8 +1,8 @@
 {
   "version": "0.4.0",
-  "notas": "Logo nuevo, y ahora busca siempre las versiones sin pérdida (WAV y FLAC) para tocar en festivales.",
+  "notas": "La app ahora se llama DJ Sync. Logo nuevo, y busca siempre las versiones sin pérdida (WAV y FLAC) para tocar en festivales.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.4.0/DJ-Lazy-0.4.0.dmg",
-    "win": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.4.0/DJ-Lazy-Setup-0.4.0.exe"
+    "mac": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.4.0/DJ-Sync-0.4.0.dmg",
+    "win": "https://github.com/negocia-col/dj-lazy-releases/releases/download/v0.4.0/DJ-Sync-Setup-0.4.0.exe"
   }
 }

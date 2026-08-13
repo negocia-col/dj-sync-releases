@@ -1,6 +1,6 @@
-# DJ Lazy — versiones
+# DJ Sync — versiones
 
-Aquí se publica **cuál es la última versión de DJ Lazy y dónde bajarla**. Nada más:
+Aquí se publica **cuál es la última versión de DJ Sync y dónde bajarla**. Nada más:
 el código de la aplicación no vive en este repositorio.
 
 - `latest.json` — la versión actual y el enlace de descarga de cada sistema.
