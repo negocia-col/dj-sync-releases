@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
-  "notas": "La app ahora se llama DJ Sync. Logo nuevo, y busca siempre las versiones sin pérdida (WAV y FLAC) para tocar en festivales.",
+  "version": "0.5.0",
+  "notas": "Telegram como fuente: escucha lo recién salido antes de bajarlo. Busca un artista y elige la versión que quieres, con su duración. Y cuando algo no aparezca o quede mal, un botón para comprarla.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.4.0/DJ-Sync-0.4.0.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.4.0/DJ-Sync-Setup-0.4.0.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.5.0/DJ-Sync-0.5.0.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.5.0/DJ.Sync.Setup.0.5.0.exe"
   }
 }
