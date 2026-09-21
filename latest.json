@@ -1,8 +1,7 @@
 {
-  "version": "0.5.0",
-  "notas": "Telegram como fuente: escucha lo recién salido antes de bajarlo. Busca un artista y elige la versión que quieres, con su duración. Y cuando algo no aparezca o quede mal, un botón para comprarla.",
+  "version": "0.6.0",
+  "notas": "Arregla las canciones que salían como «no encontrado» estando en la red, y ahora trae una guía de uso adentro: Configuración → «Cómo se usa».",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.5.0/DJ-Sync-0.5.0.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.5.0/DJ.Sync.Setup.0.5.0.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.6.0/DJ.Sync-0.6.0.dmg"
   }
 }
