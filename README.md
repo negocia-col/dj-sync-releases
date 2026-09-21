@@ -37,5 +37,42 @@ porque viven en una carpeta aparte de tu usuario.
 
 ## Instalar en Mac
 
-La primera vez macOS dirá que es de un desarrollador no identificado.
-**Clic derecho sobre la app → Abrir** (no doble clic). Solo hace falta una vez.
+Abre el `.dmg` y arrastra DJ Sync a la carpeta Aplicaciones.
+
+La primera vez, macOS dirá que la app es de un desarrollador no identificado.
+Es normal: DJ Sync no está firmada por Apple. Cómo autorizarla depende de tu
+versión de macOS.
+
+**macOS 15 (Sequoia) o más nuevo**
+
+1. Intenta abrirla con doble clic. Saldrá el aviso; ciérralo.
+2. Ve a **Ajustes del Sistema → Privacidad y Seguridad**.
+3. Baja hasta abajo: aparece que DJ Sync fue bloqueada, con el botón
+   **«Abrir de todos modos»**. Dale ahí.
+
+**macOS 14 (Sonoma) o anterior**
+
+**Clic derecho sobre la app → Abrir**, y **Abrir** otra vez en el aviso.
+
+> El atajo del clic derecho **dejó de funcionar en Sequoia** — Apple lo quitó.
+> Si lo intentas ahí y no pasa nada, no es que la app esté rota: es que ese
+> camino ya no existe y hay que ir por Ajustes del Sistema.
+
+En los dos casos solo hace falta una vez. A partir de ahí abre con doble clic
+como cualquier otra app.
+
+### Si dice que la app «está dañada»
+
+No lo está. Es la marca de cuarentena que macOS le pone a lo que se baja de
+internet. Se quita pegando esto en la Terminal, y luego se abre normal:
+
+```
+xattr -cr "/Applications/DJ Sync.app"
+```
+
+Ese aviso **solo sale si el archivo llegó con cuarentena** — bajado de internet
+o por AirDrop. Copiado desde una memoria USB llega limpio y abre sin pelear.
+
+### Mac con chip M1, M2 o M3
+
+Si al abrirla te ofrece instalar Rosetta, acepta. Es de Apple y se instala solo.
