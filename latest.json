@@ -1,7 +1,8 @@
 {
-  "version": "0.6.0",
-  "notas": "Arregla las canciones que salían como «no encontrado» estando en la red, y ahora trae una guía de uso adentro: Configuración → «Cómo se usa».",
+  "version": "0.6.1",
+  "notas": "Las canciones que esperan turno donde otro usuario ya no frenan la lista: la app sigue con las demás y las recoge cuando lleguen. Y buscar es más rápido cuando la canción ya apareció en 320.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.6.0/DJ.Sync-0.6.0.dmg"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.6.1/DJ.Sync-0.6.1.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.6.1/DJ.Sync.Setup.0.6.1.exe"
   }
 }
