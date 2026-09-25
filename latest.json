@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
-  "notas": "Arregla la lectura de playlists de Spotify: cambiar las credenciales ahora funciona al instante y los errores dicen qué hacer.",
+  "version": "0.7.0",
+  "notas": "Instalar ya no necesita ayuda: Spotify llega solo con la licencia y cada DJ elige su nombre de Soulseek con un botón que verifica si está libre.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.6.2/DJ.Sync-0.6.2.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.6.2/DJ.Sync.Setup.0.6.2.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.0/DJ.Sync-0.7.0.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.0/DJ.Sync.Setup.0.7.0.exe"
   }
 }
