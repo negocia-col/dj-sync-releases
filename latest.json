@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "notas": "Instalar ya no necesita ayuda: Spotify llega solo con la licencia y cada DJ elige su nombre de Soulseek con un botón que verifica si está libre.",
+  "version": "0.7.1",
+  "notas": "Protege la lectura de playlists: si llegan claves de Spotify que no sirven, la app se queda con las que ya le funcionaban.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.0/DJ.Sync-0.7.0.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.0/DJ.Sync.Setup.0.7.0.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.1/DJ.Sync-0.7.1.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.1/DJ.Sync.Setup.0.7.1.exe"
   }
 }
