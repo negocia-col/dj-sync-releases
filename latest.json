@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1",
-  "notas": "Protege la lectura de playlists: si llegan claves de Spotify que no sirven, la app se queda con las que ya le funcionaban.",
+  "version": "0.7.2",
+  "notas": "Encuentra canciones que antes salían como «no apareció nada», sobre todo en la ventana de Versiones.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.1/DJ.Sync-0.7.1.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.1/DJ.Sync.Setup.0.7.1.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.2/DJ.Sync-0.7.2.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.2/DJ.Sync.Setup.0.7.2.exe"
   }
 }
