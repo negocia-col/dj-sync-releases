@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
-  "notas": "Encuentra canciones que antes salían como «no apareció nada», sobre todo en la ventana de Versiones.",
+  "version": "0.8.0",
+  "notas": "Ya lee el link de una sola canción, baja la versión que pediste y no un remix, y el botón «Bajar» de Telegram funciona. Incluye un arreglo de seguridad.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.2/DJ.Sync-0.7.2.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.7.2/DJ.Sync.Setup.0.7.2.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.8.0/DJ.Sync-0.8.0.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.8.0/DJ.Sync.Setup.0.8.0.exe"
   }
 }
