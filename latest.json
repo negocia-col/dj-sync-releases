@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "notas": "Ya lee el link de una sola canción, baja la versión que pediste y no un remix, y el botón «Bajar» de Telegram funciona. Incluye un arreglo de seguridad.",
+  "version": "0.9.0",
+  "notas": "La lista va 3 veces más rápido: cada canción se encuentra en unos 10 segundos, y una descarga lenta ya no frena a las demás.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.8.0/DJ.Sync-0.8.0.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.8.0/DJ.Sync.Setup.0.8.0.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.9.0/DJ.Sync-0.9.0.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.9.0/DJ.Sync.Setup.0.9.0.exe"
   }
 }
