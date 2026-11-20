@@ -1,8 +1,8 @@
 {
-  "version": "0.9.0",
-  "notas": "La lista va 3 veces más rápido: cada canción se encuentra en unos 10 segundos, y una descarga lenta ya no frena a las demás.",
+  "version": "0.10.0",
+  "notas": "Vuelve a pegar tu playlist y baja solo las canciones nuevas. Y ya lee los links de Spotify que se comparten desde el celular.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.9.0/DJ.Sync-0.9.0.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.9.0/DJ.Sync.Setup.0.9.0.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.10.0/DJ.Sync-0.10.0.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.10.0/DJ.Sync.Setup.0.10.0.exe"
   }
 }
