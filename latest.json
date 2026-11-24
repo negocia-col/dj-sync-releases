@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
-  "notas": "Vuelve a pegar tu playlist y baja solo las canciones nuevas. Y ya lee los links de Spotify que se comparten desde el celular.",
+  "version": "0.11.0",
+  "notas": "Nueva pantalla para armar tu set: BPM, tonalidad y energía de cada canción. Los FLAC y WAV ya suenan en cualquier CDJ, y la lista sigue sola si el motor se desconecta un momento.",
   "url": {
-    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.10.0/DJ.Sync-0.10.0.dmg",
-    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.10.0/DJ.Sync.Setup.0.10.0.exe"
+    "mac": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.11.0/DJ.Sync-0.11.0.dmg",
+    "win": "https://github.com/negocia-col/dj-sync-releases/releases/download/v0.11.0/DJ.Sync.Setup.0.11.0.exe"
   }
 }
